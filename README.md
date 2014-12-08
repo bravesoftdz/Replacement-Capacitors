@@ -1,4 +1,4 @@
-Replacement-Capacitors
+Replacement Capacitors / Сменные Конденсаторы
 ======================
 
 Replacement Capacitors / Сменные Конденсаторы
