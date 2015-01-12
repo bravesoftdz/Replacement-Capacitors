@@ -6,7 +6,7 @@
 Специальное устройство (ESR), после ввода характеристик конденсатора покажет пригоден ли он для работы или уже нет. 
 <br><br>
 Аналогично концепту сменных конденсаторов можно сделать сменными и другие элементы схем, которые наиболее часто выходят из строя.
-<br><br>
+<br>
 <h2>EN: Replacement Capacitors</h2>
 Replacement Capacitors allow beg repairable devices. To create a replacement capacitors need to change the pad. Kripezh similar CPU_FAN allow secure the replacement capacitor.
 <br><br>
